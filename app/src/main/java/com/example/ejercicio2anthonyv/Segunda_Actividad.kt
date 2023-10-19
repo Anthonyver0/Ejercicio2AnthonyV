@@ -13,7 +13,7 @@ class Segunda_Actividad :  AppCompatActivity() {
 
 
 
-
+        //hola1
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.segunda_activity)
