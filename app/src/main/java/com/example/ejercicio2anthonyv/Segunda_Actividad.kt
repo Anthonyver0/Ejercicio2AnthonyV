@@ -11,7 +11,7 @@ class Segunda_Actividad :  AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
 
 
-        //Hola buenas tardes1
+        //Hola buenas tardes12
 
 
         super.onCreate(savedInstanceState)
