@@ -4,14 +4,15 @@ import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
-private lateinit var Nombre:TextView
+
 
 class Segunda_Actividad :  AppCompatActivity() {
 
+    private lateinit var Nombre:TextView
     override fun onCreate(savedInstanceState: Bundle?) {
 
 
-        //Hola buenas tardes12
+
 
 
         super.onCreate(savedInstanceState)
@@ -20,7 +21,7 @@ class Segunda_Actividad :  AppCompatActivity() {
         Nombre = findViewById(R.id.Nombre)
 
         val recogeLogin = intent.getStringExtra("login")
-        Nombre.text = "Hola " + recogeLogin
+        Nombre.text =  recogeLogin
     }
 
 }
