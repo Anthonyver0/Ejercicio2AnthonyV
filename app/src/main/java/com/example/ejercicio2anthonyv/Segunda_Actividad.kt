@@ -10,7 +10,7 @@ class Segunda_Actividad :  AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
-        //Hola buenas tardes
+        //Hola buenas tardes1
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.segunda_activity)
