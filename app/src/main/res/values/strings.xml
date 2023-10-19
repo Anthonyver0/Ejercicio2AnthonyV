@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio2AnthonyV</string>
+    <string name="Login">Pon tu nombre</string>
+    <string name="TextoContra">Pon tu contraseña\n</string>
+    <string name="Error">Error 404</string>
+    <string name="Button">Loguearse\n</string>
+    <string name="text2M">Nombre:\n</string>
+</resources>
